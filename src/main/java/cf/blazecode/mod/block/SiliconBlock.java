@@ -26,7 +26,7 @@ public class SiliconBlock extends Block
     @Override
     public void registerBlockIcons(IIconRegister iIconRegister)
     {
-        icon = iIconRegister.registerIcon(Lib.MOD_ID + ":siliconOre");
+        icon = iIconRegister.registerIcon(Lib.MOD_ID + ":siliconBlock");
     }
 
     @Override

@@ -6,8 +6,8 @@ package cf.blazecode.mod.lib;
 public class Item_Info
 {
     //Silicon Based Items
-    public static final String ITEM_SILICON_INGOT = "Silicon Ingot";
-    public static final String ITEM_SILICON_NUGGET = "Silicon Nugget";
-    public static final String ITEM_SILICON_DUST = "Silicon Dust";
-    public static final String ITEM_SILICON_RAW = "Raw Silicon";
+    public static final String ITEM_SILICON_INGOT = "siliconIngot";
+    public static final String ITEM_SILICON_NUGGET = "siliconNugget";
+    public static final String ITEM_SILICON_DUST = "siliconDust";
+    public static final String ITEM_SILICON_RAW = "siliconRaw";
 }
