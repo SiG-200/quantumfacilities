@@ -1,6 +1,7 @@
 package cf.blazecode.mod.block;
 
 import cf.blazecode.mod.lib.Block_Info;
+import cf.blazecode.mod.lib.Item_Info;
 import cf.blazecode.mod.util.TabHandler;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

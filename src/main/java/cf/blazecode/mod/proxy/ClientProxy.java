@@ -1,6 +1,11 @@
 package cf.blazecode.mod.proxy;
 
-public class ClientProxy
-{
+import net.minecraftforge.client.MinecraftForgeClient;
 
+public class ClientProxy extends CommonHandler
+{
+    @Override
+    public void registerRenderThings()
+    {
+    }
 }

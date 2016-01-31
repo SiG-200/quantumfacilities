@@ -9,4 +9,5 @@ public class Item_Info
     public static final String ITEM_SILICON_INGOT = "Silicon Ingot";
     public static final String ITEM_SILICON_NUGGET = "Silicon Nugget";
     public static final String ITEM_SILICON_DUST = "Silicon Dust";
+    public static final String ITEM_SILICON_RAW = "Raw Silicon";
 }

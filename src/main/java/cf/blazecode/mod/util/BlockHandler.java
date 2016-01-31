@@ -20,8 +20,6 @@ public class BlockHandler
     {
         siliconOre = new SiliconOre(Material.rock);
         siliconBlock = new SiliconBlock(Material.rock);
-
-        registerBlocks();
     }
 
     public static void registerBlocks()
